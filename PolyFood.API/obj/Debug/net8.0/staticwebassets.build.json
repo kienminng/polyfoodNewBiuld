@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kEXEMVneOuFFkDSp8mmUpT/Y/s+FbiGFqxpL5u1p19M=",
+  "Source": "PolyFood.API",
+  "BasePath": "_content/PolyFood.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

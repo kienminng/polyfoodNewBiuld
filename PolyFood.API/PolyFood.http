@@ -1,0 +1,6 @@
+@PolyFood_HostAddress = http://localhost:5088
+
+GET {{PolyFood_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

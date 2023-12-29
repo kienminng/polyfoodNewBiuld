@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\.Net Traning\PolyFood\PolyFood.DTOs\bin\Debug\net7.0\PolyFood.DTOs.deps.json
+C:\Users\Admin\Desktop\.Net Traning\PolyFood\PolyFood.DTOs\bin\Debug\net7.0\PolyFood.DTOs.dll
+C:\Users\Admin\Desktop\.Net Traning\PolyFood\PolyFood.DTOs\bin\Debug\net7.0\PolyFood.DTOs.pdb
+C:\Users\Admin\Desktop\.Net Traning\PolyFood\PolyFood.DTOs\bin\Debug\net7.0\PolyFood.Common.dll
+C:\Users\Admin\Desktop\.Net Traning\PolyFood\PolyFood.DTOs\bin\Debug\net7.0\PolyFood.Entity.dll
+C:\Users\Admin\Desktop\.Net Traning\PolyFood\PolyFood.DTOs\bin\Debug\net7.0\PolyFood.Entity.pdb
+C:\Users\Admin\Desktop\.Net Traning\PolyFood\PolyFood.DTOs\bin\Debug\net7.0\PolyFood.Common.pdb
+C:\Users\Admin\Desktop\.Net Traning\PolyFood\PolyFood.DTOs\obj\Debug\net7.0\PolyFood.DTOs.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\.Net Traning\PolyFood\PolyFood.DTOs\obj\Debug\net7.0\PolyFood.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\.Net Traning\PolyFood\PolyFood.DTOs\obj\Debug\net7.0\PolyFood.DTOs.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\.Net Traning\PolyFood\PolyFood.DTOs\obj\Debug\net7.0\PolyFood.DTOs.AssemblyInfo.cs
+C:\Users\Admin\Desktop\.Net Traning\PolyFood\PolyFood.DTOs\obj\Debug\net7.0\PolyFood.DTOs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\.Net Traning\PolyFood\PolyFood.DTOs\obj\Debug\net7.0\PolyFood.DTOs.csproj.CopyComplete
+C:\Users\Admin\Desktop\.Net Traning\PolyFood\PolyFood.DTOs\obj\Debug\net7.0\PolyFood.DTOs.dll
+C:\Users\Admin\Desktop\.Net Traning\PolyFood\PolyFood.DTOs\obj\Debug\net7.0\refint\PolyFood.DTOs.dll
+C:\Users\Admin\Desktop\.Net Traning\PolyFood\PolyFood.DTOs\obj\Debug\net7.0\PolyFood.DTOs.pdb
+C:\Users\Admin\Desktop\.Net Traning\PolyFood\PolyFood.DTOs\obj\Debug\net7.0\ref\PolyFood.DTOs.dll
